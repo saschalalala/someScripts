@@ -1,5 +1,6 @@
 someScripts
 ===========
 
-Several (Bash-) scripts I created 
+Several (Bash-) scripts I created .
+
 Description in files.
