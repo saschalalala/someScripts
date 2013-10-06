@@ -1,0 +1,1 @@
+/home/sash/bin/mobile.sh
